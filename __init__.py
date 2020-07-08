@@ -1,1 +1,1 @@
-from lib.functions import query_sad, calcular_avance, avance_carrera
+from .functions import query_sad, calcular_avance, avance_carrera
